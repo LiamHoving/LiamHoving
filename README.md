@@ -3,7 +3,7 @@ I am Liam and I study computer science at leeds beckett.
 
 I play rugby
 
-I am born in New Zealand but have been living in the Netherlands since 2010. I moved to the UK in 2024.
+I am born in New Zealand but have been living in the Netherlands since 2010. I moved to the UK in 2022.
 
 
 <!--
